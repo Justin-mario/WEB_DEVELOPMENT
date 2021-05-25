@@ -1,0 +1,97 @@
+.firstheader{
+    
+       color: Cyan;
+   
+}
+
+.secondheader{
+    color: rgb(240, 240, 71);
+    
+}
+
+.motherdiv{
+    background-color: rgb(228, 238, 241);
+    padding-left: 35%;
+    padding-right: 20%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    
+}
+.firstdiv{
+    color:  Gray;
+    padding: 10px;
+    border-width: 10px;
+    font-size: 11px;
+
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 54%;
+    height: 40%;
+    padding-left: 25px
+    
+    
+    
+    }
+
+.thirddiv{
+color: grey;
+}
+
+
+#fourthdiv{
+    background-color: rgb(14, 150, 143);
+    color: snow;
+    padding-left: 25px;
+    width: 100%;
+    border-bottom-left-radius: 10px;
+
+}
+.fifthdiv{
+    background-color: lightseagreen;
+    color: snow;
+    font-size: 11px;
+    border-bottom-right-radius: 10px;
+    width: 100%;
+    font-style: italic;
+    font-family: cursive;
+    padding-left: 25px
+
+}
+
+.button {
+    background-color:  rgb(240, 240, 71);
+    color: white;
+    padding: 8px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 14px;
+    margin: 12px 4px; 
+    border-radius: 7%;
+}
+
+.flex-container {
+
+    
+    display: flex;
+    background-color: DodgerBlue;
+    width: 60%;
+    height: 40%;
+    
+  }
+
+.flex-container  {
+    
+    
+    background-color: #f1f1f1;
+    font-size: 11px;
+    border-radius: 7%;
+    
+  }
+  
+  span{
+      font-weight: bolder;
+      font-size: 30px;
+      color: white;
+   
+  }
